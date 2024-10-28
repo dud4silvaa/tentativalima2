@@ -1,0 +1,199 @@
+/* * {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100vw;
+    background: whitesmoke;
+    padding: 1vw;
+
+    & .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        color: black;
+    }
+
+    & .textodapagina {
+        width: 30vw;
+    }
+
+    & .links {
+        width: 30vw;
+    }
+
+    & .links a {
+        text-decoration: none;
+        color: black;
+        font-size: 1.5vw;
+        margin: 1vw; 
+    }
+
+ 
+
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container1, .container2, .container3, .container4, .container5 {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.showcase {
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.showcase .title div {
+    font-size: 3em;
+    color: #343a40;
+    margin-bottom: 10px;
+}
+
+.showcase .description div {
+    font-size: 1.2em;
+    color: #6c757d;
+    max-width: 600px;
+    margin: 0 auto 20px;
+}
+
+.buttons img {
+    width: 150px;
+    margin: 10px;
+}
+
+.testimonial {
+    background: linear-gradient(45deg, #6a11cb, #2575fc);
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.testimonial .quote {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.testimonial .author {
+    font-size: 1.2em;
+    font-style: italic;
+}
+
+.features {
+    background-color: #ffffff;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.features .feature {
+    display: inline-block;
+    width: 45%;
+    margin: 20px 2.5%;
+    text-align: center;
+}
+
+.features .feature-title {
+    font-size: 1.5em;
+    color: #343a40;
+    margin-bottom: 10px;
+}
+
+.features .feature-description {
+    color: #6c757d;
+}
+
+.new-age {
+    background-color: #f8f9fa;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.new-age .new-age-title {
+    font-size: 2.5em;
+    color: #343a40;
+    margin-bottom: 20px;
+}
+
+.new-age .new-age-description {
+    font-size: 1.1em;
+    color: #6c757d;
+    max-width: 600px;
+    margin: 0 auto 20px;
+}
+
+.stop-waiting {
+    background-color: #6c757d;
+    padding: 60px 20px;
+    text-align: center;
+    color: #fff;
+}
+
+.stop-waiting .container5 div {
+    font-size: 3em;
+    color: #fff;
+} */
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100vw;
+    background: whitesmoke;
+    padding: 1vw;
+
+    & .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        color: black;
+    }
+
+    & .textodapagina {
+        width: 30vw;
+    }
+
+    & .links {
+        width: 30vw;
+    }
+
+    & .links a {
+        text-decoration: none;
+        color: black;
+        font-size: 1.5vw;
+        margin: 1vw; 
+    }
+
+    & .links a :hover{
+        color: rgb(152, 48, 152);
+        padding: 1vw;
+        border-radius: 15px;
+
+    }
+
+    & .links2 {
+        width: 30vw;
+    }
+
+    & .links a {
+        text-decoration: none;
+        color: black;
+        font-size: 1.5vw;
+        margin: 1vw; 
+    }
+
+
+}
+
